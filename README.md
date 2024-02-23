@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hola 👋
 
 
 
-- 🔭 I’m currently working on student
+- 🔭 actualmente estoy trabajando en chatbot para WhatsApp
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
